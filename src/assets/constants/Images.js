@@ -1,0 +1,28 @@
+export default {
+  backgroundDay: require("../appBackground.png"),
+  backgroundNight: require("../appBackground.png"),
+
+  fajr: require("../Images/fajr.png"),
+  zuhr: require("../Images/zuhr.png"),
+  asr: require("../Images/asr.png"),
+  maghrib: require("../Images/maghrib.png"),
+  isha: require("../Images/isha.png"),
+
+  compassPointer: require("../Images/compass_pointer.png"),
+  N: require("../Images/N.png"),
+  NNE: require("../Images/NNE.png"),
+  NE: require("../Images/NE.png"),
+  NEE: require("../Images/NEE.png"),
+  E: require("../Images/E.png"),
+  SEE: require("../Images/SEE.png"),
+  SE: require("../Images/SE.png"),
+  SSE: require("../Images/SSE.png"),
+  S: require("../Images/S.png"),
+  SSW: require("../Images/SSW.png"),
+  SW: require("../Images/SW.png"),
+  SWW: require("../Images/SWW.png"),
+  W: require("../Images/W.png"),
+  NWW: require("../Images/NWW.png"),
+  NW: require("../Images/NW.png"),
+  NNW: require("../Images/NNW.png"),
+};

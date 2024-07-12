@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "title": "A palm tree planted for you in Paradise (Repeat 100x)",
+    "arabic": "سُبْحَانَ اللهِ الْعَظِيمِ وَبِحَمْدِهِ",
+    "translation": "Subhaanallaahil-‘adheemi wa bihamdihi",
+    "meaning": "Glorified is Allah, the Most Greatest and praised is He.",
+    "color": "#2596be"
+  },
+  {
+    "id": 1,
+    "title": "Your scales will be tipped on the Day of Judgment, full of rewards!",
+    "arabic": "ٱلْحَمْدُ لِلَّٰهِ",
+    "translation": "Alhamdulillah",
+    "meaning": "All praise is for Allah",
+    "color": "#83b597"
+  },
+  {
+    "id": 2,
+    "title": "For energy, optimism, spiritual strength and good memory",
+    "arabic": "أعوذُ بِٱللَّهِ مِنَ ٱلشَّيۡطَٰنِ ٱلرَّجِيمِ",
+    "translation": "A’uuthu billaahi minashshaytanir rajeem",
+    "meaning": "I seek the protection of Allah from Satan the outcast",
+    "color": "#2c4e6c"
+  },
+  {
+    "id": 3,
+    "title": "The most beloved words to Allah",
+    "arabic": "سُبْحَانَ اللَّهِ وَ الْحَمْدُ لِلَّهِ وَ لاَ اِلهَ إِلاَّ اللَّهُ وَ اللَّهُ أَكْبَرُ",
+    "translation": "Subhaanallaahi, walhamdu lillaahi, wa laa ‘ilaaha ‘illallaahu wallaahu ‘Akbar",
+    "meaning": "Glory be to Allah and praise be to Allah and there is no god but Allah and Allah is Supremely Great! ",
+    "color": "#3c7ea9"
+  },
+  {
+    "id": 4,
+    "title": "When you say this Dhikr, sins fall off of you like leaves off of trees.",
+    "arabic": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلاَ إِلَهَ إِلاَّ اللَّهُ وَاللَّهُ أَكْبَرُ وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّ",
+    "translation": "SubhanAllah wal hamdulillah, wa la ilahaillAllah wa Allahu akbar wala hawla wala quwwata illa billah ",
+    "meaning": "I praise Allah (or All Praise if to Allah) above all attributes that do not suit His Majesty. All praise is for Allah. There is no deity worthy of worship besides Allah. Allah is Great.",
+    "color": "#5b988b"
+  },
+  {
+    "id": 5,
+    "title": "Say this once to be blessed ten times",
+    "arabic": "اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَى نَّبينا مُحَمَّد ",
+    "translation": "Allahumma salli wa sallim ‘alaa nabiyyinaa Muhammadin",
+    "meaning": "O Allah, please send your blessings and peace on our Prophet Muhammad ",
+    "color": "#5b988b"
+  },
+  {
+    "id": 6,
+    "title": "A solution for all of your worries",
+    "arabic": "أَسْتَغْفِرُ اللهَ وَأَتُوبُ إِلَيْهِ",
+    "translation": "Astaghfirullaaha wa ‘atoobu ‘ilayhi",
+    "meaning": "I seek the forgiveness of Allah and repent to Him.",
+    "color": "#3c7ea9"
+  },
+  {
+    "id": 7,
+    "title": "Sayings light on the tongue, heavy on the scales & beloved to the Most Merciful",
+    "arabic": "سُبْحان الله وَبِحَمْدِهِ وَسُبْحان الله العَظِيم ",
+    "translation": "SubhaanAllaah wa bihamdihi Wa subhaanAllaahil ‘adheem ",
+    "meaning": "I declare Allah free of all imperfections and may He be praised. I declare Allah free of all imperfections, the Mighty.",
+    "color": "#2c4e6c"
+  },
+  {
+    "id": 8,
+    "title": "Fills what is between the heavens and earth ",
+    "arabic": "سُبْحان الله  والحَمْدُ لله ",
+    "translation": "SubhaanAllaah walhamdulillaah ",
+    "meaning": "I declare Allah free of all imperfections All praise is for Allah",
+    "color": "#83b597"
+  },
+  {
+    "id": 9,
+    "title": "When a person sincerely says ‘La ilaha illallah’, the doors of the sky are opened for it until it reaches the Throne so long as he avoids major sins",
+    "arabic": "لَاإِلَٰهَ إِلَّا ٱللَّٰه",
+    "translation": "La ilaha illallah",
+    "meaning": "There is no god truly worthy of worship except Allah",
+    "color": "#2596be"
+  }
+]

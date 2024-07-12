@@ -1,0 +1,194 @@
+diff --git a/node_modules/react-native/index.js b/node_modules/react-native/index.js
+index f556fa3..e0eb1b1 100644
+--- a/node_modules/react-native/index.js
++++ b/node_modules/react-native/index.js
+@@ -106,7 +106,7 @@ module.exports = {
+   // Components
+   get AccessibilityInfo(): AccessibilityInfo {
+     return require('./Libraries/Components/AccessibilityInfo/AccessibilityInfo')
+-      .default;
++        .default;
+   },
+   get ActivityIndicator(): ActivityIndicator {
+     return require('./Libraries/Components/ActivityIndicator/ActivityIndicator');
+@@ -117,8 +117,8 @@ module.exports = {
+   // $FlowFixMe[value-as-type]
+   get DatePickerIOS(): DatePickerIOS {
+     warnOnce(
+-      'DatePickerIOS-merged',
+-      'DatePickerIOS has been merged with DatePickerAndroid and will be removed in a future release. ' +
++        'DatePickerIOS-merged',
++        'DatePickerIOS has been merged with DatePickerAndroid and will be removed in a future release. ' +
+         "It can now be installed and imported from '@react-native-community/datetimepicker' instead of 'react-native'. " +
+         'See https://github.com/react-native-datetimepicker/datetimepicker',
+     );
+@@ -142,7 +142,7 @@ module.exports = {
+   },
+   get KeyboardAvoidingView(): KeyboardAvoidingView {
+     return require('./Libraries/Components/Keyboard/KeyboardAvoidingView')
+-      .default;
++        .default;
+   },
+   get Modal(): Modal {
+     return require('./Libraries/Modal/Modal');
+@@ -153,8 +153,8 @@ module.exports = {
+   // $FlowFixMe[value-as-type]
+   get ProgressBarAndroid(): ProgressBarAndroid {
+     warnOnce(
+-      'progress-bar-android-moved',
+-      'ProgressBarAndroid has been extracted from react-native core and will be removed in a future release. ' +
++        'progress-bar-android-moved',
++        'ProgressBarAndroid has been extracted from react-native core and will be removed in a future release. ' +
+         "It can now be installed and imported from '@react-native-community/progress-bar-android' instead of 'react-native'. " +
+         'See https://github.com/react-native-progress-view/progress-bar-android',
+     );
+@@ -163,8 +163,8 @@ module.exports = {
+   // $FlowFixMe[value-as-type]
+   get ProgressViewIOS(): ProgressViewIOS {
+     warnOnce(
+-      'progress-view-ios-moved',
+-      'ProgressViewIOS has been extracted from react-native core and will be removed in a future release. ' +
++        'progress-view-ios-moved',
++        'ProgressViewIOS has been extracted from react-native core and will be removed in a future release. ' +
+         "It can now be installed and imported from '@react-native-community/progress-view' instead of 'react-native'. " +
+         'See https://github.com/react-native-progress-view/progress-view',
+     );
+@@ -184,8 +184,8 @@ module.exports = {
+   },
+   get Slider(): Slider {
+     warnOnce(
+-      'slider-moved',
+-      'Slider has been extracted from react-native core and will be removed in a future release. ' +
++        'slider-moved',
++        'Slider has been extracted from react-native core and will be removed in a future release. ' +
+         "It can now be installed and imported from '@react-native-community/slider' instead of 'react-native'. " +
+         'See https://github.com/callstack/react-native-slider',
+     );
+@@ -255,8 +255,8 @@ module.exports = {
+   },
+   get Clipboard(): Clipboard {
+     warnOnce(
+-      'clipboard-moved',
+-      'Clipboard has been extracted from react-native core and will be removed in a future release. ' +
++        'clipboard-moved',
++        'Clipboard has been extracted from react-native core and will be removed in a future release. ' +
+         "It can now be installed and imported from '@react-native-clipboard/clipboard' instead of 'react-native'. " +
+         'See https://github.com/react-native-clipboard/clipboard',
+     );
+@@ -297,7 +297,7 @@ module.exports = {
+   },
+   get NativeDialogManagerAndroid(): NativeDialogManagerAndroid {
+     return require('./Libraries/NativeModules/specs/NativeDialogManagerAndroid')
+-      .default;
++        .default;
+   },
+   get NativeEventEmitter(): NativeEventEmitter {
+     return require('./Libraries/EventEmitter/NativeEventEmitter').default;
+@@ -316,8 +316,8 @@ module.exports = {
+   },
+   get PushNotificationIOS(): PushNotificationIOS {
+     warnOnce(
+-      'pushNotificationIOS-moved',
+-      'PushNotificationIOS has been extracted from react-native core and will be removed in a future release. ' +
++        'pushNotificationIOS-moved',
++        'PushNotificationIOS has been extracted from react-native core and will be removed in a future release. ' +
+         "It can now be installed and imported from '@react-native-community/push-notification-ios' instead of 'react-native'. " +
+         'See https://github.com/react-native-push-notification-ios/push-notification-ios',
+     );
+@@ -346,11 +346,11 @@ module.exports = {
+     return require('./Libraries/ReactNative/UIManager');
+   },
+   get unstable_batchedUpdates(): $PropertyType<
+-    ReactNative,
+-    'unstable_batchedUpdates',
+-  > {
++      ReactNative,
++      'unstable_batchedUpdates',
++      > {
+     return require('./Libraries/ReactNative/RendererProxy')
+-      .unstable_batchedUpdates;
++        .unstable_batchedUpdates;
+   },
+   get useAnimatedValue(): useAnimatedValue {
+     return require('./Libraries/Animated/useAnimatedValue').default;
+@@ -377,7 +377,7 @@ module.exports = {
+   },
+   get DynamicColorIOS(): DynamicColorIOS {
+     return require('./Libraries/StyleSheet/PlatformColorValueTypesIOS')
+-      .DynamicColorIOS;
++        .DynamicColorIOS;
+   },
+   get NativeAppEventEmitter(): RCTNativeAppEventEmitter {
+     return require('./Libraries/EventEmitter/RCTNativeAppEventEmitter');
+@@ -390,13 +390,13 @@ module.exports = {
+   },
+   get PlatformColor(): PlatformColor {
+     return require('./Libraries/StyleSheet/PlatformColorValueTypes')
+-      .PlatformColor;
++        .PlatformColor;
+   },
+   get processColor(): processColor {
+     return require('./Libraries/StyleSheet/processColor');
+   },
+   get requireNativeComponent(): <T>(
+-    uiViewClassName: string,
++      uiViewClassName: string,
+   ) => HostComponent<T> {
+     return require('./Libraries/ReactNative/requireNativeComponent');
+   },
+@@ -405,49 +405,24 @@ module.exports = {
+   },
+   get unstable_enableLogBox(): () => void {
+     return () =>
+-      console.warn(
+-        'LogBox is enabled by default so there is no need to call unstable_enableLogBox() anymore. This is a no op and will be removed in the next version.',
+-      );
++        console.warn(
++            'LogBox is enabled by default so there is no need to call unstable_enableLogBox() anymore. This is a no op and will be removed in the next version.',
++        );
+   },
+   // Deprecated Prop Types
+   get ColorPropType(): $FlowFixMe {
+-    console.error(
+-      'ColorPropType will be removed from React Native, along with all ' +
+-        'other PropTypes. We recommend that you migrate away from PropTypes ' +
+-        'and switch to a type system like TypeScript. If you need to ' +
+-        'continue using ColorPropType, migrate to the ' +
+-        "'deprecated-react-native-prop-types' package.",
+-    );
+     return require('deprecated-react-native-prop-types').ColorPropType;
+   },
++
+   get EdgeInsetsPropType(): $FlowFixMe {
+-    console.error(
+-      'EdgeInsetsPropType will be removed from React Native, along with all ' +
+-        'other PropTypes. We recommend that you migrate away from PropTypes ' +
+-        'and switch to a type system like TypeScript. If you need to ' +
+-        'continue using EdgeInsetsPropType, migrate to the ' +
+-        "'deprecated-react-native-prop-types' package.",
+-    );
+     return require('deprecated-react-native-prop-types').EdgeInsetsPropType;
+   },
++
+   get PointPropType(): $FlowFixMe {
+-    console.error(
+-      'PointPropType will be removed from React Native, along with all ' +
+-        'other PropTypes. We recommend that you migrate away from PropTypes ' +
+-        'and switch to a type system like TypeScript. If you need to ' +
+-        'continue using PointPropType, migrate to the ' +
+-        "'deprecated-react-native-prop-types' package.",
+-    );
+     return require('deprecated-react-native-prop-types').PointPropType;
+   },
++
+   get ViewPropTypes(): $FlowFixMe {
+-    console.error(
+-      'ViewPropTypes will be removed from React Native, along with all ' +
+-        'other PropTypes. We recommend that you migrate away from PropTypes ' +
+-        'and switch to a type system like TypeScript. If you need to ' +
+-        'continue using ViewPropTypes, migrate to the ' +
+-        "'deprecated-react-native-prop-types' package.",
+-    );
+     return require('deprecated-react-native-prop-types').ViewPropTypes;
+   },
+ };

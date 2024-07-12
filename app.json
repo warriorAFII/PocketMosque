@@ -1,0 +1,55 @@
+{
+  "expo": {
+    "name": "Pocket Mosque",
+    "slug": "PocketMosqueExpo",
+    "version": "2.0.7",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#177bac"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.warriorafii.pocketmosque"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#177bac"
+      },
+      "package": "com.warriorafii.pocketmosque"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5be79c71-9e10-403d-9c26-801b61149da0"
+      }
+    },
+    "plugins": [
+      "sentry-expo",
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow $(PRODUCT_NAME) to use your location to provide you with most accurate prayer times and Qibla direction in relation to your location."
+        }
+      ]
+    ],
+    "hooks": {
+      "postPublish": [
+        {
+          "file": "sentry-expo/upload-sourcemaps",
+          "config": {
+            "organization": "build-blox",
+            "project": "pocket-mosque"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "id": 0,
+    "title": "Dua When In Anger",
+    "arabic": "اَعُوْذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+    "translation": "A’oozu Bil’laahi Minash Shaitaanir Rajeem",
+    "meaning": "I seek refuge in Allah from Shaitaan the cursed",
+    "color": "#2596be"
+  },
+  {
+    "id": 1,
+    "title": "When Finished Eating",
+    "arabic": "اَ لْحَمْدُ للهِ الَّذِىْ اَطْعَمَنَا وَسَقَاناَ وَجَعَلَناَ مِنَ الْمُسْلِمِيْنَ",
+    "translation": "Alhumdu lil laahil Lazee At’amana Wa Saqaana Wa Ja’alana Minal Muslimeen",
+    "meaning": "All Praise is due to Allah, who has blessed us with food and drink and made us from amongst the Believers (Muslims)",
+    "color": "#2596be"
+  },
+  {
+    "id": 2,
+    "title": "When Leaving Home",
+    "arabic": "بِسْمِ اللهِ تَوَكَّلْتُ عَلىَ اللهِ وَلاَ حَوْلَ وَلاَ قُوَّةَ اِلاَّ بِاللهِ ط",
+    "translation": "Bismil laahi Tawak’kaltu Alal laahi Wa Laa Hawla Wa Laa Quw’wata il’la bil’laah",
+    "meaning": "Allah’s Name we begin with, I place my (full) trust in Allah and there is no Might and Power except with Allah",
+    "color": "#2596be"
+  },
+  {
+    "id": 3,
+    "title": "When entering Home",
+    "arabic": "بِسْـمِ اللهِ وَلَجْنـا، وَبِسْـمِ اللهِ خَـرَجْنـا، وَعَلـى رَبِّنـا تَوَكّلْـنا",
+    "translation": "Bismillaahi walajnaa, wa bismillaahi kharajnaa, wa ‘alaaRabblnaa tawakkalnaa",
+    "meaning": "In the Name of Allah we enter, in the Name of Allah we leave, and upon our Lord we depend [then say As-Salaamu ‘Alaykum to those present]",
+    "color": "#2596be"
+  },
+  {
+    "id": 4,
+    "title": "Before starting a Journey",
+    "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا، وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُون",
+    "translation": "subhaan-alladhee sakh-khara lanaa haadhaa, wa maa kunnaa lahu muqrineena, wa innaa ilaaa rabinaa la-munqaliboon",
+    "meaning": "Glory to Him who has brought this [vehicle] under our control, though we were unable to control it [ourselves], and indeed, to Our Lord we will surely return.",
+    "color": "#2596be"
+  },
+  {
+    "id": 5,
+    "title": "When Finished Eating",
+    "arabic": "اَ لْحَمْدُ للهِ الَّذِىْ اَطْعَمَنَا وَسَقَاناَ وَجَعَلَناَ مِنَ الْمُسْلِمِيْنَ ",
+    "translation": "Alhumdu lil laahil Lazee At’amana Wa Saqaana Wa Ja’alana Minal Muslimeen",
+    "meaning": "All Praise is due to Allah, who has blessed us with food and drink and made us from amongst the Believers (Muslims)",
+    "color": "#2596be"
+  },
+  {
+    "id": 6,
+    "title": "Dua after every prayer",
+    "arabic": "اَسْتَغْفَرُوْ ا اللهَ الَّذِيْ لَا اَلٰهَ اِلاَّ هُوَ الْحَيُّ الْقَيُّوْمُ ذُوْ الْجَلَالِ وَ الْاِكْرَامِ وَ اَتُوْبُ اِلَيْهِ",
+    "translation": "Astaghferul laahal lazee laa elaaha illaa howal hayyul qayyoomo zul jalaale wal ikraame wa atoobo elayhe",
+    "meaning": "I seek forgiveness of Allah Who, there is no deity other than He, the Ever-Living the Self-Subsistent the Glorious and the Gracious. I turn unto Him (repentant)",
+    "color": "#2596be"
+  },
+  {
+    "id": 7,
+    "title": "For protection from Hell",
+    "arabic": "أَسْأَلُ اللَّهَ الْجَنَّةَ وَ أَعُوذُ بِاللَّهِ مِنَ النَّارِ",
+    "translation": "As-alul Laahal Jannata Wa A-o’ozo Billaahe Menan Naar",
+    "meaning": "I beseech Allah (to grant me) Paradise and I seek protection of Allah from the (Hell) Fire: at this the Hell Says: O Allah grant him/her Protection",
+    "color": "#2596be"
+  },
+  {
+    "id": 8,
+    "title": "For wealth & prosperity",
+    "arabic": "يَا قَوِيُّ يَا غَنِيُّ يَا وَلِيُّ يَا مَلِيُّ",
+    "translation": "Yaa Qawiyyo Yaa Ghaniyyo Wa Waliyyo Wa Maliyyo",
+    "meaning": "O Mighty; O Self -Sufficient; O Guardian; O Absolute Authority",
+    "color": "#2596be"
+  },
+  {
+    "id": 9,
+    "title": "For increase of Sustenance",
+    "arabic": "اَللّٰهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَ رَبَّ الْعَرْشِ الْعَظِيْمِ عَنَّا الدَّيْنَ وَ أَغْنِنَا مِنَ الْفَقْرِ",
+    "translation": "Allaahumma Rabbas Samaawaatis Sab-e’ Wa Rabbal A’rshil A’zeeme A’nnad Dayna Wa Aghnenaa Menal Faqre",
+    "meaning": "O Allah! The Lord of seven heavens. The Lord of great throne (authority), defray our debts and free us from poverty",
+    "color": "#2596be"
+  },
+  {
+    "id": 10,
+    "title": "For removing Worries",
+    "arabic": "سُبْحَانَ اللَّهِ الْعَظِيْمِ وَ بِحَمْدِهٖ أَسْتَغْفِرُ اللَّهَ وَ أَسْأَلُهٗ مِنْ فَضْلِهٖ",
+    "translation": "Subhaanl Laahil A’zeeme Wa Be-hamdehi Astaghferul Laaha Wa As-alohu Min Fazlehi",
+    "meaning": "The Almighty God is pure and I begin with His praise. I pray salvation from Him and supplicate His Blessings",
+    "color": "#83b597"
+  },
+  {
+    "id": 11,
+    "title": "Dua when studying something difficult",
+    "arabic": "اللَّهُمَّ لاَ سَهْلاً إِلّاَ مَا جَعَلّتَهٌ سَهْلاً وَأَنّتَ تَجّعَلَ الحَزَنَ إِذَا شِئتَ سَهْلاً",
+    "translation": "Allahumma la sahla illa ma ja‘altahu sahla wa anta taj‘alu al-hazana idha shi’ta sahla.",
+    "meaning": "Oh Allah! Nothing is easy except what You have made easy. If You wish, You can make the difficult easy.",
+    "color": "#83b597"
+  },
+  {
+    "id": 12,
+    "title": "Dua for all Diseases",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبَرَصِ، وَالْجُنُونِ، وَالْجُذَامِ، وَمِنْ سَيِّئِ الأَسْقَامِ",
+    "translation": "Allahumma inni a’uzubika minal baros, wal junuun wal juzzam, wa min sayyi’il-asqam",
+    "meaning": "O Allah, I seek refuge in You from leprosy, madness, elephantiasis, and evil diseases",
+    "color": "#83b597"
+  },
+  {
+    "id": 13,
+    "title": "If one forgets dua before eating ",
+    "arabic": "بِسْمِ الله اَوَّلَهُ وَاخِرَهُ",
+    "translation": "Bismillahi Awwalahu Wa aakhirahu",
+    "meaning": " In the name of Allah in it’s beginning and end",
+    "color": "#83b597"
+  },
+  {
+    "id": 14,
+    "title": "Dua before sleeping",
+    "arabic": "اَللّٰهُمَّ بِاسْمِكَ  أَمُوتُ وَأَحْيَا",
+    "translation": "Allahumma Bismika Amootu Wa-ahyaa",
+    "meaning": "O Allah by your name i live and die",
+    "color": "#83b597"
+  },
+  {
+    "id": 15,
+    "title": "Dua After Waking Up",
+    "arabic": " الحَمْدُ لِلهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "translation": "Alhamdu Lillaahil-lazee Ahyaanaa Ba‛da Maa Mmaatanaa Wa ilayhin-Nushoor",
+    "meaning": " All praise belong to Allah who gave us life after dying, and unto Him we’ll be resurrection",
+    "color": "#83b597"
+  },
+  {
+    "id": 16,
+    "title": "Dua before entering the toilet",
+    "arabic": "اَللّٰهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+    "translation": "Allaahumma innee A‛oozu Bika Minal-khubuthi wal-khabaa’ith",
+    "meaning": "O Allah. I seek refuge in You from the bad male and female evil (Jinns)",
+    "color": "#83b597"
+  },
+  {
+    "id": 17,
+    "title": "Dua After Coming out of the Toilet",
+    "arabic": "غُفْرَانَكَ الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنِّي الْأَذَى وَعَافَانِي",
+    "translation": "Ghuf-raa naka, Alhamdulillah-hilla-zee Az-haba Ann-nil azaa Wa ‘afaani",
+    "meaning": "(O Allah) I seek forgiveness and pardon from You, All Praise be to Allah, who removed the difficulty from me and gave me ease (relief)",
+    "color": "#83b597"
+  },
+  {
+    "id": 18,
+    "title": "Dua before leaving toilet",
+    "arabic": "غُفْرَانَكَ الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنِّي الْأَذٰى وَعَافَانِي",
+    "translation": "Ghufranaka Alhamdulillah illadhi adhhaba anni al-adha wa ‘aafaanee",
+    "meaning": "“(O Allah) I seek forgiveness and pardon from You”. All Praise be to Allah, who has taken away from me discomfort and granted me relief”. (Mishkat)",
+    "color": "#83b597"
+  },
+  {
+    "id": 19,
+    "title": "Dua for success",
+    "arabic": "وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+    "translation": "Wama tawfeeqee illa billahiAAalayhi tawakkaltu wa-ilayhi oneeb",
+    "meaning": "My success is not but through Allah. Upon him I have relied, and to Him I return",
+    "color": "#83b597"
+  },
+  {
+    "id": 20,
+    "title": "Dua before travelling",
+    "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
+    "translation": "Subhaan-allazee Sakh-khara lanaa haazaa, Wa maa kunnaa Lahu Muqrineena, Wa innaa ilaaa Rabinaa La-munqaliboon",
+    "meaning": "Glory to Him who has brought this (vehicle) under our control, though we were unable to control it, and indeed, we are to return to him",
+    "color": "#83b597"
+  },
+  {
+    "id": 21,
+    "title": "Dua when entering the mosque",
+    "arabic": "اَللّٰهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "translation": "Allaahum-maf tah lee Abwaaba Rahmatik",
+    "meaning": "O Allah, open the gates of Your mercy for me",
+    "color": "#2c4e6c"
+  },
+  {
+    "id": 22,
+    "title": "Dua when leaving the mosque",
+    "arabic": "اَللّٰهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+    "translation": "Allaa-hum-ma innee As’aluka Min fad-lik",
+    "meaning": "O Allah, I ask You from Your favour",
+    "color": "#2c4e6c"
+  },
+  {
+    "id": 23,
+    "title": "Dua when looking at the mirror",
+    "arabic": "اَللّٰهُمَّ كَمَا أَنْتَ حَسَّنْتَ خَلْقِي فَحَسِّنْ خُلُقِي",
+    "translation": "Allahumma Kama Hasanta khalqi Fahassin Khuluqi",
+    "meaning": "O Allah as you have given me a good physical form, so also favour me with good morals and manners",
+    "color": "#2c4e6c"
+  },
+  {
+    "id": 24,
+    "title": "Dua when you are in difficulty",
+    "arabic": "اَللّٰهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا ، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+    "translation": "Allaahumma Laa Sahla illaa Maa Ja‛altahu Sahlan, Aa anta Taj‛al-ul-hazna izaa Shi’ta Sahlan",
+    "meaning": "O Allah there is nothing that is easy except that You made it easy, and You can make this difficulty easy if You so wish to",
+    "color": "#2c4e6c"
+  },
+  {
+    "id": 25,
+    "title": "Dua when seeing someone in difficulty",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي عَافَانِي مِمَّا ابْتَلَاكَ بِهِ وَفَضَّلَنِي عَلَى كَثِيرٍ مِمَّنْ خَلَقَ تَفْضِيلَاً",
+    "translation": "Al-hamdu Lil-laahil-ladhzee, Aafaanee Mim-mab-ta-laaka Bih, Wa fad-dala-nee, Alaa kasee-rim mim man khalaqa Taf-deelaa",
+    "meaning": "All praise belongs to Allah who has saved me from such a condition which is afflicted on you and favoured me over many of his creations",
+    "color": "#2c4e6c"
+  },
+  {
+    "id": 26,
+    "title": "Dua when wearing clothes",
+    "arabic": "الحَمْدُ لِلهِ الَّذِي كَسَانِي هَذَا الثَّوْبَ وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+    "translation": "alhamdu Lillaahil-lazee Kasaanee Haazas-sauwba Wa razaqaneehi Min Ghayri Hawlin Minnee Wa laa Quwwah",
+    "meaning": "All praise belongs to Allah who has clothed me with this garment and provided it for me, with no power nor might from myself",
+    "color": "#2c4e6c"
+  },
+  {
+    "id": 27,
+    "title": "Duas for Anxiety and Worry",
+    "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "translation": "La hawla wa la quwwata illa billah",
+    "meaning": "There is no might and no power except with Allah.",
+    "color": "#2c4e6c"
+  },
+  {
+    "id": 28,
+    "title": "Daily everyday Dua",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نَافِعاً، وَرِزْقاً طَيِّباً، وَعَمَلاً مُتَقَبَّلاً",
+    "translation": "Allaahumma ‘innee ‘as’aluka ‘ilman naafi’an, wa rizqan tayyiban, wa ‘amalan mutaqabbalan",
+    "meaning": "O Allah, I ask You for knowledge that is of benefit , a good provision , and deeds that will be accepted",
+    "color": "#2c4e6c"
+  },
+  {
+    "id": 29,
+    "title": "Daily everyday Dua 2",
+    "arabic": "سُبْحَانَ اللهِ ، والْحَمْدُ للهِ ، وَاللهُ أَكْبَرُ",
+    "translation": "Subhaanallaahi, Walhamdu lillaahi, Wallaahu ‘Akbar",
+    "meaning": "Glory is to Allah, praise is to Allah, Allah is the Most Great!",
+    "color": "#2c4e6c"
+  },
+  {
+    "id": 30,
+    "title": "Daily everyday Dua 3",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ",
+    "translation": "Allaahumma ‘innee ‘as’alukal-jannata wa ‘a’oothu bika minan-naar",
+    "meaning": "O Allah , I ask You for Paradise and seek Your protection from the Fire",
+    "color": "#3c7ea9"
+  },
+  {
+    "id": 31,
+    "title": "Daily every Dua 4 ",
+    "arabic": "لاَ إِلَهَ إِلَّا أنْـت سُـبْحانَكَ إِنِّي كُنْـتُ مِنَ الظّـالِميـن",
+    "translation": "Laa ‘ilaaha ‘illaa ‘Anta subhaanaka ‘innee kuntu minadh-dhaalimeen",
+    "meaning": "There is none worthy of worship but You, glory is to You. Surely, I was among the wrongdoers",
+    "color": "#3c7ea9"
+  },
+  {
+    "id": 32,
+    "title": "Rabbana 1",
+    "arabic": "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ العَلِيمُ",
+    "translation": "Rabbana taqabbal minna innaka antas Sameeaul Aleem",
+    "meaning": "Our Lord! Accept (this service) from us: For Thou art the All-Hearing, the All-knowing",
+    "color": "#3c7ea9"
+  },
+  {
+    "id": 33,
+    "title": "Dua when in hardship",
+    "arabic": "يَا حَيُّ يَا قَيُّوْمُ بِرَحْمَتِكَ أَسْتَغِيْث",
+    "translation": "Ya Hayyu Ya Qayyoom birahmatika astagheeth",
+    "meaning": "O Ever-Living, O Sustainer, in Your Mercy I seek relief.",
+    "color": "#3c7ea9"
+  },
+  {
+    "id": 34,
+    "title": "Rabbana 3 ",
+    "arabic": "رَبَّنَآ اٰتِنَا فِي الدُّنْيَا حَسَنَةً وَّفِي الْاٰخِرَةِ حَسَـنَةً وَّقِنَا عَذَابَ النَّارِ",
+    "translation": "Rabbanaaa Aatinaa Fiddunyaa H’asanata Wa Fil Aakhirati H’asanata Wa Qinaa A’d’aaban Naar",
+    "meaning": "Our Lord! Give us in this world that which is good and in the Hereafter that which is good, and save us from the torment of the Fire!",
+    "color": "#3c7ea9"
+  },
+  {
+    "id": 35,
+    "title": "Rabbana 4 ",
+    "arabic": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْراً وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى القَوْمِ الكَافِرِينَ",
+    "translation": "Rabbana afrigh 'alayna sabran wa thabbit aqdamana wansurna 'alal-qawmil-kafirin",
+    "meaning": "Our Lord! Bestow on us endurance, make our foothold sure, and give us help against the disbelieving folk",
+    "color": "#3c7ea9"
+  },
+  {
+    "id": 36,
+    "title": "Rabbana 5 ",
+    "arabic": "رَبَّنَا لَا تُزِغْ قُلُوْبَنَا بَعْدَ اِذْ ھَدَيْتَنَا وَھَبْ لَنَا مِنْ لَّدُنْكَ رَحْمَةً ۚ اِنَّكَ اَنْتَ الْوَھَّابُ",
+    "translation": "Rabbanaa Laa Tuzigh Quloobanaa Ba’-Da Id’hadaytanaa Wa Hab Lanaa Mil Ladunka Rah’mah Innaka Antal Wahaab",
+    "meaning": "Our Lord! Let not our hearts deviate (from the truth) after You have guided us, and grant us mercy from You. Truly, You are the Bestower",
+    "color": "#3c7ea9"
+  },
+  {
+    "id": 37,
+    "title": "Dua for increased knowledge",
+    "arabic": "وَقُل رَّبِّ زِدۡنِي عِلۡمٗا",
+    "translation": "Rabbi Zidni Ilma",
+    "meaning": "O my Lord increase me in knowledge",
+    "color": "#3c7ea9"
+  },
+  {
+    "id": 38,
+    "title": "Dua for increased knowledge 2 ",
+    "arabic": "اللهم إني أسألك علماً نافعاً، ورزقاً طيباً، وعملاً متقبلاً",
+    "translation": "Allaahumma innee assaluka ilman nafia, wa rizzqan tayyeebun, wa amalan mutaqabilan",
+    "meaning": "O Allaah indeed I ask You for beneficial knowledge, and a good Halal provision, and actions which are accepted",
+    "color": "#3c7ea9"
+  },
+  {
+    "id": 39,
+    "title": "Dua when raining",
+    "arabic": "اللَّهُمَّ صَيِّبًا نَافِعًا",
+    "translation": "Allaahumma sayyiban naafi‛aa",
+    "meaning": "O Allah, may it be a beneficial rain",
+    "color": "#3c7ea9"
+  },
+  {
+    "id": 40,
+    "title": "Dua in times of Distress",
+    "arabic": "اللهُ اللهُ ربِّي لَا أُشرِكُ به شيئًا",
+    "translation": "Allah, Allah, Rabbi La Ushriku Bihi Syai'a",
+    "meaning": "Allah, Allah, my Lord, I do not associate anything with Him",
+    "color": "#3c7ea9"
+  },
+  {
+    "id": 41,
+    "title": "Dua of Prophet Yunus a.s.",
+    "arabic": "لاَّ إِلَهَ إِلاَّ أَنتَ سُبْحَانَكَ إِنِّى كُنتُ مِنَ الظَّالِمِينَ",
+    "translation": " La ilaha illa anta subhanaka inni kuntu minaz zalimin",
+    "meaning": "There is no God but You, exalted are You! Indeed, I have been of the wrongdoers",
+    "color": "#5b988b"
+  },
+  {
+    "id": 42,
+    "title": "Dua when your feeling down",
+    "arabic": "يَا حَيُّ يَا قَيُّوْمُ بِرَحْمَتِكَ أَسْتَغِيْث",
+    "translation": "Ya Hayyyu Ya Qayyum, bi-Rahmatika Astagheeth",
+    "meaning": "O Living, O Sustaining, in Your Mercy I seek relief",
+    "color": "#5b988b"
+  },
+  {
+    "id": 43,
+    "title": "Dua to attain calmness of the heart",
+    "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي يَفْقَهُوا قَوْلِي",
+    "translation": "Rabbi-shrah li sodri, wa yassir li amri, wahlul uqdatan min lisani yafqohu qawli",
+    "meaning": "Lord, lift up my heart and ease my task for me. Remove the impediment from my tongue so that they may understand my speech",
+    "color": "#5b988b"
+  },
+  {
+    "id": 44,
+    "title": "Dua for attaining confidence in Allah ",
+    "arabic": "رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ",
+    "translation": "Robbana, ‘alaika tawakkalna, wa ilaika anabna, wa ilaikal-masir",
+    "meaning": "Our Lord! In You we have placed our trust, and to You we turn in repentance, and to You is the final return",
+    "color": "#5b988b"
+  },
+  {
+    "id": 45,
+    "title": "Dua for hardship and distress",
+    "arabic": "حَسْبِيَ اللَّهُ لآ إلَهَ إلَّا هُوَ، عَلَيْهَ توَكَّلتُ، وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+    "translation": "HasbiyAllahu la illaha illa Huwa, ‘alayhi tawakkaltu, wa Huwa Rabbul arshil azim",
+    "meaning": "Allah is sufficient for me. There is none worthy of worship but Him. I have placed my trust in Him, and He is the lord of the Majestic Throne",
+    "color": "#5b988b"
+  },
+  {
+    "id": 46,
+    "title": "Dua when finished eating",
+    "arabic": "اَ لْحَمْدُ للهِ الَّذِىْ اَطْعَمَنَا وَسَقَاناَ وَجَعَلَناَ مِنَ الْمُسْلِمِيْنَ",
+    "translation": "Alhumdu lil laahil Lazee At’amana Wa Saqaana Wa Ja’alana Minal Muslimeen",
+    "meaning": "All Praise is due to Al’laah, who has blessed us with food and drink and made us from amongst the Believers (Muslims)",
+    "color": "#5b988b"
+  },
+  {
+    "id": 47,
+    "title": "Dua for fear and anxiety ",
+    "arabic": "اللَّهُمَّ اكْفِنِيهِمْ بِماَ شِئْتَ",
+    "translation": "Allah hummak-fineeyhim bi maa shi'ta",
+    "meaning": "O Allah, suffice (i.e. protect) me against them however You wish",
+    "color": "#5b988b"
+  },
+  {
+    "id": 48,
+    "title": "Dua for forgiveness and well-being ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ",
+    "translation": "Allahumma inni as’alukal-’afwa wal ‘afiyah fid-dunya wal-akhirah",
+    "meaning": "O Allah, I seek Your forgiveness and my well-being in this world and the Hereafter ",
+    "color": "#5b988b"
+  },
+  {
+    "id": 49,
+    "title": "Dua for protection from evil eye",
+    "arabic": "أَعُوذُ بِكلِمَاتِ الله التّامّاتِ مِن شَرّ مَا خَلَقَ",
+    "translation": "A’uzu bikalimatillahit-tammaati min syarri ma kholak",
+    "meaning": "I seek protection in the perfect words of Allah from every evil that has been created ",
+    "color": "#5b988b"
+  }
+]
