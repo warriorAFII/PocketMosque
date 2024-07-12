@@ -1,5 +1,5 @@
 
-<img src="https://github.com/warriorAFII/PocketMosque/assets/54716428/e4aec587-5bb7-4371-be79-4787a45f857c" width="100%">
+<img src="https://github.com/user-attachments/assets/f831d0d3-6131-44dd-a671-7e9a7ed545d7" width="100%">
 
 
 # Pocket Mosque
