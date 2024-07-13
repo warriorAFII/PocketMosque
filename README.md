@@ -10,16 +10,11 @@ This repo functions as a mirror of the main private development repo. Its main p
 
 ## Main features
 
-* Multi-chain support (Bitcoin, Ethereum, Polygon, Arbitrum, Optimism, Base, Solana, and Dogecoin)
-* View and manage your Assets
-* View and manage your NFTs
-* View your DeFi Deposits
-* WalletConnect support
-* Single Seed for Multiple Wallets
-* Import Wallets ([BIP39 standard](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki))
+* Prayer times
+* Qibla Direction
+* Duas page
 * Push Notifications for Android and iOS
-* Data encryption using password and/or biometrics
-* Multi-language support
+
 
 ## Official Channels
 
