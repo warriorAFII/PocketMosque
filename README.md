@@ -109,7 +109,7 @@ cd ..
 eas build -profile development-simulator platform --ios
 ```
 
-#### Run the app
+### Run the app
 
 ```sh
 npx expo start --dev-client
