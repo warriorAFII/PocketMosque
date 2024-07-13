@@ -13,7 +13,7 @@ This repo functions as a mirror of the main private development repo. Its main p
 * Prayer times
 * Qibla Direction
 * Duas page
-* Push Notifications for Android and iOS
+* Push Notifications
 
 
 ## Official Channels
