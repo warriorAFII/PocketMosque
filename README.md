@@ -38,7 +38,7 @@ We welcome contributions from the community! Whether you're fixing bugs, improvi
 2. **Clone the Fork:**
    - Clone your forked repository to your local machine using the following command:
      ```sh
-     git clone https://github.com/your-username/pocket-mosque.git
+     git clone https://github.com/your-username/pocketmosque.git
      ```
 
 3. **Create a Branch:**
