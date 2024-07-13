@@ -106,5 +106,12 @@ eas build -profile development platform --android
 cd ios
 pod install
 cd ..
-eas build -profile development-simulator platform --android
+eas build -profile development-simulator platform --ios
 ```
+
+#### Run the app
+
+```sh
+npx expo start --dev-client
+```
+
