@@ -87,6 +87,9 @@ EXPO_PUBLIC_LOCATION_API_KEY=https://wallet.kraken.com/api/push
 EXPO_PUBLIC_SENTRY_DSN=
 ```
 
+- All the environment variables are optional, but it is recommended to include the weather and location API keys for full functionality. Both APIs are free to use (provided the number of calls remains within reasonable limits).
+-The Sentry DSN is completely optional and can be added at the user's discretion for error tracking.
+
 ### Android
 
 #### Generate a Debug Keystore
