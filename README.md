@@ -19,20 +19,12 @@ This repo functions as a mirror of the main private development repo. Its main p
 ## Official Channels
 
 * [Website](https://pocketmosque.com) 
-* [Support and Documentation](https://support.kraken.com/hc/en-us/categories/Kraken-Wallet) 
-* [Apple App Store](https://apps.apple.com/app/kraken-wallet/id1626327149) 
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.kraken.superwallet) 
+* [Discord](https://discord.gg/4pB3StHpP7) 
+* [Apple App Store](https://apps.apple.com/gb/app/pocket-mosque/id1584476704) 
 
 ## License
 
 Pocket Mosque's source code is released under the terms of the MIT license.
-
-## Responsible Disclosure
-
-All bug and vulnerability disclosures must go through the properly defined channels.
-
-* Contact: [bugbounty@kraken.com](mailto:bugbounty@kraken.com)
-* Review the [bug bounty policy](https://www.kraken.com/features/security/bug-bounty) first before submitting your findings.
 
 ## Contributing
 
@@ -80,11 +72,10 @@ For detailed instructions on setting up the environment, refer to the [React Nat
 Create a `.env` file in the root directory of your project and populate it with the following data:
 
 ```plaintext
-DEFAULT_HARMONY_BASE_URI=https://wallet.kraken.com/api/data
-DEFAULT_GROUNDCONTROL_BASE_URI=https://wallet.kraken.com/api/push
-WALLETCONNECT_PROJECT_ID=${PROJECT_ID}
+EXPO_PUBLIC_WEATHER_API_KEY=https://wallet.kraken.com/api/data
+EXPO_PUBLIC_LOCATION_API_KEY=https://wallet.kraken.com/api/push
+EXPO_PUBLIC_SENTRY_DSN=
 ```
-A WalletConnect project ID is required for full functionality. For instructions on how to obtain it, refer to the WalletConnect [documentation](https://docs.walletconnect.com/).
 
 ### Android
 
@@ -121,4 +112,4 @@ yarn && yarn ios
 
 ### Push Notifications
 
-Please be aware that push notifications are not currently supported in the open-source version of this app.
+## 
