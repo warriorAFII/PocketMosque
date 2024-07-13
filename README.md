@@ -46,16 +46,16 @@ Upcoming Improvements
 
 We are currently working on providing developer documentation that is necessary for quality PRs. We expect to roll out these resources soon and will keep the community updated on our progress.
 
-## To do list 
+## Development Roadmap 
 
 ### Short-term 
 
-- [] Move codebase to TS
-- [] Bring app to Android
+- [ ] Migrate the codebase to TypeScript
+- [ ] Launch app to Play Store
 
-### Long term
-- [] Relook to duas Page
-- [] Add a Quran Screen
+### Long-term
+- [ ] Revamp the Duas page
+- [ ] Implement a Quran screen
 
 ## Build Instructions
 
