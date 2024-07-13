@@ -92,18 +92,10 @@ EXPO_PUBLIC_SENTRY_DSN=
 
 ### Android
 
-#### Generate a Debug Keystore
-
-Open a terminal and run the following command to generate a debug keystore
-
-```sh
-keytool -genkey -v -keystore android/app/debug.keystore -alias androiddebugkey -keyalg RSA -keysize 2048 -validity 10000 -storepass android -keypass android
-```
-
 #### Build the Android app
 
 ```sh
-eas build -profile development platform --ios
+eas build -profile development platform --android
 ```
 
 ### iOS
@@ -116,7 +108,3 @@ pod install
 cd ..
 eas build -profile development-simulator platform --android
 ```
-
-### Push Notifications
-
-## 
