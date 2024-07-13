@@ -4,9 +4,9 @@
 
 # Pocket Mosque
 
-Kraken Wallet is a Crypto and Bitcoin self-custody wallet where your keys never leave your device. Engineered and crafted by the mighty and OG Kraken.com. It is built with React Native, Realm, an Electrum Server, and other FOSS projects. The backend runs over a proxy to ensure your personal data is never shared with 3rd party services or companies. It is built under strong principles of privacy, self-custody, and security to ensure maximum sovereignty for its users. It is open sourced under the MIT license.
+Pocket Mosque is a comprehensive prayer app designed to support your spiritual needs. Built with React Native, Realm, and other open-source technologies, it ensures privacy, security, and user autonomy. Our app provides accurate prayer times, Qibla direction, a collection of Duas, and push notifications to keep you connected and on schedule.
 
-This repo functions as a mirror of the main private development repo. Its main purpose is to provide audibility, trust minimization, and code review. Please provide feedback, vulnerabilities or bug reporting using the responsible disclosure process. 
+We are committed to creating a reliable and user-friendly app that respects your privacy. Pocket Mosque is open-sourced under the MIT license, inviting community feedback, contributions, and code reviews to help us improve and evolve.
 
 ## Main features
 
