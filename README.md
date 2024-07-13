@@ -59,7 +59,7 @@ We are currently working on providing developer documentation that is necessary 
 
 ## Build Instructions
 
-You have to use Dev client because expo go react-native-compass-heading doesnt work on managed workflow
+You need to use the Dev client because the package react-native-compass-heading only works in the Dev client and not in the managed workflow. This guide will walk you through setting up your development environment and building the app for both Android and iOS.
 
 This guide will walk you through setting up your development environment and building the app for both Android and iOS.
 
@@ -87,7 +87,7 @@ EXPO_PUBLIC_LOCATION_API_KEY=https://wallet.kraken.com/api/push
 EXPO_PUBLIC_SENTRY_DSN=
 ```
 
-- All the environment variables are optional, but it is recommended to include the weather and location API keys for full functionality. Both APIs are free to use (provided the number of calls remains within reasonable limits).
+- All the environment variables are optional, but it is recommended to include the weather and location API keys for full functionality. Both APIs are free to use (provided the number of calls remains within reasonable limits). If these keys are not provided, default values are set within the app.
 - The Sentry DSN is completely optional and can be added at the user's discretion for error tracking.
 
 ### Android
@@ -103,24 +103,18 @@ keytool -genkey -v -keystore android/app/debug.keystore -alias androiddebugkey -
 #### Build the Android app
 
 ```sh
-yarn && yarn android
+eas build -profile development platform --ios
 ```
 
 ### iOS
 
-#### Configure Xcode Project
-
-- Open the `ios/.xcworkspace` file in Xcode.
-- Select the target and go to the _Signing & Capabilities_ tab
-- Select your team and create a provisioning profile. If you need help, refer to the [Apple Developer documentation](https://developer.apple.com/help/account/manage-profiles/create-a-development-provisioning-profile/).
-
-
-
 #### Build the iOS app
 
 ```sh
-sudo gem install bundler
-yarn && yarn ios
+cd ios
+pod install
+cd ..
+eas build -profile development-simulator platform --android
 ```
 
 ### Push Notifications
