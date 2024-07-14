@@ -15,6 +15,11 @@ We are committed to creating a reliable and user-friendly app that respects your
 * Duas page
 * Push Notifications
 
+## Screenshots
+
+<img src="https://github.com/user-attachments/assets/e25fda95-9a09-49a7-a55d-b9398169f138" width="100%">
+<img src="https://github.com/user-attachments/assets/292ab6e0-039f-4e96-a396-1b9c4e9b056e" width="100%">
+<img src="https://github.com/user-attachments/assets/9ab45b4f-ca1b-487a-830d-60bb957c9a4a" width="100%">
 
 ## Official Channels
 
