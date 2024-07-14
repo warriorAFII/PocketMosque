@@ -4,7 +4,7 @@
 
 # Pocket Mosque
 
-Pocket Mosque is a comprehensive prayer app designed to support your spiritual needs. Built with React Native, Realm, and other open-source technologies, it ensures privacy, security, and user autonomy. Our app provides accurate prayer times, Qibla direction, a collection of Duas, and push notifications to keep you connected and on schedule.
+Pocket Mosque is a multifunctional prayer app designed to assist your journey in this dunya. Built with React Native, it ensures privacy, security, and user autonomy. Our app provides accurate prayer times, Qibla direction, a collection of Duas, and push notifications to keep you connected and on schedule.
 
 We are committed to creating a reliable and user-friendly app that respects your privacy. Pocket Mosque is open-sourced under the MIT license, inviting community feedback, contributions, and code reviews to help us improve and evolve.
 
@@ -52,7 +52,7 @@ We welcome contributions from the community! Whether you're fixing bugs, improvi
      ```
 
 4. **Make Changes:**
-   - Make your changes in the new branch. Ensure your code follows the project's coding standards and includes appropriate tests.
+   - Make your changes in the new branch. Ensure your code follows the project's coding standards and includes appropriate tests when needed.
 
 5. **Commit Changes:**
    - Commit your changes with a descriptive commit message:
