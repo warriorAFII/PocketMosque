@@ -150,6 +150,7 @@ If you have any trouble building, give us a message in our [Discord](https://dis
 ### Short-term 
 
 * Migrate the codebase to TypeScript
+* Refactor any poorly written code
 * Launch app to Play Store
 
 ### Long-term
