@@ -17,7 +17,7 @@ We are committed to creating a reliable and user-friendly app that respects your
 
 ## Screenshots
 
-<img src="https://github.com/user-attachments/assets/ad03acbd-7206-4c3f-8ad4-b1876c3f0c51" width="100%" >
+<img src="https://github.com/user-attachments/assets/89f9ce7f-a1f3-4f45-940c-044b20153fcc" width="100%" >
 
 
 ## Official Channels
