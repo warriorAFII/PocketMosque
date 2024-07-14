@@ -143,6 +143,8 @@ eas build -profile development-simulator platform --ios
 npx expo start --dev-client
 ```
 
+If you have any trouble building, give us a message in our [Discord](https://discord.gg/4pB3StHpP7) or create an issue on Github 
+
 ## Development Roadmap 
 
 ### Short-term 
