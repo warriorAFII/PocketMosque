@@ -143,12 +143,12 @@ npx expo start --dev-client
 
 ### Short-term 
 
-- [ ] Migrate the codebase to TypeScript
-- [ ] Launch app to Play Store
+* Migrate the codebase to TypeScript
+* Launch app to Play Store
 
 ### Long-term
-- [ ] Revamp the Duas page
-- [ ] Implement a Quran screen
+* Revamp the Duas page
+* Implement a Quran screen
 
 ## Special Thanks 
 Special thanks to the team at [Islamic Network](https://islamic.network/) for providing the prayer time API.
